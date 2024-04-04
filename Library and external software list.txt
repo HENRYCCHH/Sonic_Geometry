@@ -1,0 +1,14 @@
+Library listjavax.sound.midi package:https://docs.oracle.com/javase/8/docs/api/javax/sound/midi/package-summary.htmlVideo library from Processing 4:https://processing.org/reference/libraries/video/index.htmlThe midibus:https://www.smallbutdigital.com/projects/themidibus/ControlP5:https://www.sojamo.de/libraries/controlP5/oscP5: https://sojamo.de/libraries/oscp5/Gif Animation:https://github.com/extrapixel/gif-animationSound Engine triggered by MIDIMidi.city:https://midi.city/Application receives OSC message (converted from camera capture),classify the gestural message into 3 classes, and send OSC message back to processingWekinator:http://www.wekinator.org/
+
+Setting for Wekinator project:
+Wekinator listening for inputs and control on port: 6448
+Inputs OSC message: /wek/inputs
+# inputs: 100
+
+Outputs OSC message: /wek/outputs
+#outputs: 1
+
+Ports: 9000
+Type: All classifiers (default settings)
+With 3 classes
+
