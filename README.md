@@ -1,21 +1,16 @@
-/*
-Sonic Geometry
-by Cheuk Hang Henry CHIU , 10th Nov 2023
+# Sonic Geometry
+**By Cheuk Hang Henry CHIU**  
+**Date:** 10th Nov 2023
 
- A novel approach to visualizing musical intervals has emerged, 
- prioritizing the exploration of consonance and dissonance through 
- graphical representation. Departing from traditional methods reliant 
- on digital audio signals, this project leverages real-time 
- visualization of MIDI signals for its computational feasibility in 
- accurately capturing interval relationships. At its core, the project 
- aims to animate the numerical music intervals, offering users a dynamic 
- and immersive experience.
+## Overview
+Sonic Geometry offers a novel approach to visualizing musical intervals by emphasizing the exploration of consonance and dissonance through dynamic graphical representation. Unlike traditional methods that rely on digital audio signals, this project utilizes real-time MIDI signal visualization to accurately capture and animate numerical music intervals, providing users with a dynamic and immersive experience.
 
- Utilizing a sand-painting technique imbues the visuals with 
- a handmade quality, elevating user interaction. Interactive sliders 
- facilitate adjustment of animation speed, line fadeout, and dissonance impact, 
- while gesture controls enhance drawing projection and dynamic color changes 
- within the environment. This immersive experience allows for in-depth exploration 
- of musical interval consonance and dissonance, seamlessly fusing technology 
- with artistic expression.
-*/
+## Features
+- **Handmade Visuals:** A unique sand-painting technique adds a handcrafted aesthetic.
+- **Interactive Controls:** Adjust animation speed, line fadeout, and dissonance impact with intuitive sliders.
+- **Gesture-Based Interaction:** Enhance drawing projections and dynamically change colors with gesture controls.
+- **Immersive Exploration:** Delve into the interplay of musical consonance and dissonance, seamlessly blending technology with artistic expression.
+
+## Demo Video
+Experience Sonic Geometry in action by watching the demo video:  
+[Watch the Demo](https://youtu.be/Tnxm0caIM3U)
