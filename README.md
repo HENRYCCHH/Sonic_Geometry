@@ -2,7 +2,7 @@
 **By Cheuk Hang Henry CHIU**  
 **Date:** 10th Nov 2023
 
-![Sonic Geometry thumbnail](https://github.com/HENRYCCHH/Sonic_Geometry/tree/main/Sonic_geometry_thumbnail.png)
+![Sonic Geometry thumbnail](https://github.com/HENRYCCHH/Sonic_Geometry/blob/main/Sonic_geometry_thumbnail.png)
 
 
 ## Overview
